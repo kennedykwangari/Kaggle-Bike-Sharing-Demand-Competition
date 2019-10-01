@@ -1,2 +1,4 @@
 # Kaggle-Bike-Sharing-Demand-Competition
-Forecast use of a city bike share system
+
+This dataset comes from a bike sharing service in the United States. 
+You are required to  Forecast the use of a city bike share system
